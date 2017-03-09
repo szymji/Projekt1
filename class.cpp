@@ -15,7 +15,6 @@ using namespace std;
  	cout << "Podaj pseudonimm:";
  	cin.width(ROZMIAR);
  	cin >>  pseud;
-
  }
 
 // automatyczne dane

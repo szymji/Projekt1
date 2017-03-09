@@ -1,7 +1,9 @@
 
-main: main.o class.o
-	g++ main.o class.o -o program
+main: main.o class.o funkcje.o
+	g++ main.o class.o funkcje.o -o program
 main.o : main.cpp
 	g++ -c main.cpp
 class.o : class.cpp
 	g++ -c class.cpp
+funkcje.o : funkcje.cpp
+	g++ -c funkcje.cpp
