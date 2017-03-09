@@ -5,5 +5,8 @@ main.o : main.cpp
 	g++ -c main.cpp
 class.o : class.cpp
 	g++ -c class.cpp
-funkcje.o : funkcje.cpp
+fun1.o : fun1.cpp
 	g++ -c funkcje.cpp
+fun2.o : fun2.cpp
+	g++ -c fun2.cpp
+

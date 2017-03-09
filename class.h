@@ -13,7 +13,8 @@
 	Osoba();
 	void getOsoba();
 	void wyswietlDane();
-	void fun1();
+	void wstawZ();
+	void odTylu();
 
  };
 

@@ -20,8 +20,8 @@ bool isVowel(char a){
 
 }
 
-
-void Osoba::fun1(){
+// cos
+void Osoba::wstawZ(){
 
 	for(int i = 0;i<ROZMIAR;i++){
 

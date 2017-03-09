@@ -5,9 +5,9 @@ int main(){
 
 	Osoba ty;
 	ty.getOsoba();
-	ty.fun1();
+	ty.wstawZ();
+	ty.odTylu();
 	ty.wyswietlDane();
-
 	while(getchar()!='\n');
 	
 	getchar();
