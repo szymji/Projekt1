@@ -29,6 +29,6 @@ using namespace std;
 
  void Osoba::wyswietlDane(){
 
- 	cout << imie << " '" << pseud << "' " << nazw << endl;
+ 	cout << imie << " " << nazw <<  " '" << pseud << "'" << endl;
  }
 
