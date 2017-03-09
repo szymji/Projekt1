@@ -5,6 +5,7 @@ int main(){
 
 	Osoba ty;
 	ty.getOsoba();
+	ty.odTylu();
 	ty.wyswietlDane();
 
 	getchar();

@@ -13,6 +13,7 @@
 	Osoba();
 	void getOsoba();
 	void wyswietlDane();
+	void odTylu();
 
  };
 
